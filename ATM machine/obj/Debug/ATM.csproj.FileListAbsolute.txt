@@ -1,0 +1,33 @@
+E:\ATM\ATM machine\bin\Debug\ATM machine.exe.config
+E:\ATM\ATM machine\bin\Debug\ATM machine.exe
+E:\ATM\ATM machine\bin\Debug\ATM machine.pdb
+E:\ATM\ATM machine\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\ATM\ATM machine\bin\Debug\System.Buffers.dll
+E:\ATM\ATM machine\bin\Debug\System.Collections.Immutable.dll
+E:\ATM\ATM machine\bin\Debug\System.Memory.dll
+E:\ATM\ATM machine\bin\Debug\System.Numerics.Vectors.dll
+E:\ATM\ATM machine\bin\Debug\System.Reflection.Metadata.dll
+E:\ATM\ATM machine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ATM\ATM machine\bin\Debug\System.Buffers.xml
+E:\ATM\ATM machine\bin\Debug\System.Collections.Immutable.xml
+E:\ATM\ATM machine\bin\Debug\System.Memory.xml
+E:\ATM\ATM machine\bin\Debug\System.Numerics.Vectors.xml
+E:\ATM\ATM machine\bin\Debug\System.Reflection.Metadata.xml
+E:\ATM\ATM machine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ATM\ATM machine\obj\Debug\ATM.csprojAssemblyReference.cache
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Account.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Banlce.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Changepin.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.DEPOSITE.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Fast_Cash.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Home.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.ministatment.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Splash.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.LOGIN.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.Properties.Resources.resources
+E:\ATM\ATM machine\obj\Debug\ATM_machine.WITHDRAW.resources
+E:\ATM\ATM machine\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\ATM\ATM machine\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\ATM\ATM machine\obj\Debug\ATM.csproj.CopyComplete
+E:\ATM\ATM machine\obj\Debug\ATM machine.exe
+E:\ATM\ATM machine\obj\Debug\ATM machine.pdb
